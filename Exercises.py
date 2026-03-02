@@ -16,5 +16,6 @@ while True:
 
     again = input("Do you want to calculate again? (Yes/No): ").lower()
     if again != "yes":
-        print("Program ended.")
+        print("Executed.")
+
         break
